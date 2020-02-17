@@ -3,6 +3,6 @@ layout: default
 title:About
 ---
 
-# About page
+# About Me
 
-This page tells you a little about me. 
+I am a PhD student at University of Oregon studying Computer Science.
